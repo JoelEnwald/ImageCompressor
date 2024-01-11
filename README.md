@@ -5,3 +5,4 @@ Some example results
 
 ![image](https://github.com/JoelEnwald/SimpleImageCompressor/assets/6623412/ea258da6-241d-48b8-a668-d4179d57f44b)
 
+The percentages mean that the filesize of the compressed image has dropped to that portion of the original.
