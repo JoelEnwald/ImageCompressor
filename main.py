@@ -24,7 +24,7 @@ img = np.array([[2,2,2,2,2,1,1,1],
 # IMAGE DIMENSIONS NEED TO BE POWERS OF 2!
 #imname = 'Tree'
 #imname = 'Icebath'
-imname = 'Banana'
+imname = 'Cat'
 
 img = cv2.imread(imname + '.jpg')
 # Convert to grayscale
@@ -69,9 +69,9 @@ compd_relsize = 100*(filesize_comp/filesize_orig)
 plt.figure()
 plt.subplot(1, 3, 1)
 plt.imshow(img, cmap='gray')
-plt.title("Original image")
+plt.title("Original")
 plt.subplot(1,3,2)
-plt.title("Image compressed to " + str(round(compd_relsize)) + "%")
+plt.title("Compressed to " + str(round(compd_relsize)) + "%")
 plt.imshow(img_compressed, cmap='gray')
 plt.subplot(1,3,3)
 plt.title('Blocks')
