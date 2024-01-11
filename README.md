@@ -1,5 +1,5 @@
 This algorithm is designed to compress grayscale images in a lossy manner. We aim to replace homogeneous areas with single-color squares for simpler representation. This seems to reduce the jpg filesize a lot, though unsure about the mechanism behind this since JPG is DCT-based...
-Oddly enough the filesizes don't seem to always reduce when using PNG images?
+Oddly enough the filesizes don't seem to always reduce when saving in PNG format?
 
 Some example results
 
