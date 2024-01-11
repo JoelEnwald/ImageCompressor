@@ -3,4 +3,5 @@ Oddly enough the filesizes don't seem to always reduce when saving in PNG format
 
 Some example results
 
-![image](https://github.com/JoelEnwald/ImageCompressor/assets/6623412/18ca5799-617e-4015-a266-2099d25ef6e5)
+![image](https://github.com/JoelEnwald/SimpleImageCompressor/assets/6623412/ea258da6-241d-48b8-a668-d4179d57f44b)
+
